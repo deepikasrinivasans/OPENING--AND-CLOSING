@@ -51,4 +51,4 @@ plt.axis("off")
 ### Display the result of Closing
 ![3daa](https://github.com/deepikasrinivasans/OPENING--AND-CLOSING/assets/119393935/c96dd44c-b85a-4253-8607-7555fbb21c25)
 ## Result
-Thus the Opening and Closing operation is used in the image using python and OpenCV.![Uploading 3daa.png…]()
+Thus the Opening and Closing operation is used in the image using python and OpenCV.
